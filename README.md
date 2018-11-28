@@ -1,12 +1,12 @@
 # bbs-redux
 
-###Quick Start：
+### Quick Start：
 ```
 git clone https://github.com/chaomian123/bbs-redux.git
 cd bbs-redux
 yarn && yarn start
 ```
-###Features
+### Features
 - Ducks项目文件结构
     1. component中放置通用组件
     2. action types、action creators 和reducer组成模块都放在redux/modules路径下
@@ -17,7 +17,7 @@ yarn && yarn start
 ### Architecture
 ![alt text](https://wx4.sinaimg.cn/mw690/77b25649gy1fxnxjiaz1hj20j216adjc.jpg "architect")
 
-###App Shots
+### App Shots
 ![alt text](https://wx1.sinaimg.cn/mw690/77b25649gy1fxnwnsgj2tj20s40ndwgs.jpg "PostList")
 ![alt text](https://wx3.sinaimg.cn/mw690/77b25649gy1fxnwnx4aa3j20r60ikwfn.jpg "Detail")
 
