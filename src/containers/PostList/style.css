@@ -1,4 +1,10 @@
 .postList {
-  width: 900px;
+  width: 800px;
   margin: 0 auto;
+  background: #fff;
+  border-radius: 5px;
+  padding: 0 40px;
+  /* opacity: 0.7; */
+  box-shadow: 0 4px 120px rgba(0,0,0,0.1);
+
 }
